@@ -1,4 +1,5 @@
 # nethunter_update_error
+## Error Message
 ```
 ┌──(root㉿kali)-[/]
 └─#  sudo apt update
